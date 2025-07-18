@@ -88,3 +88,6 @@ POST /api/claim/:userId → Claim daily points
 GET /api/claim/history/:userId → Claim history
 
 GET /api/leaderboard → Get leaderboard rankings
+
+📸 Screenshots:<img width="1886" height="954" alt="screenshot-leaderboard" src="https://github.com/user-attachments/assets/d06b6a51-6955-40eb-9b44-d278fd2e295e" />
+

@@ -31,13 +31,6 @@ A full-stack Leaderboard web application where users can register and claim rand
 
 ---
 
-## 🌐 Live Demo
-
-Frontend (Vercel/Netlify): [https://your-frontend-link.com](https://your-frontend-link.com)  
-Backend (Render/Local): [https://your-backend-api.com](https://your-backend-api.com)
-
----
-
 ## 📂 Folder Structure
 
 /leaderboard-project
